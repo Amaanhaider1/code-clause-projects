@@ -1,6 +1,7 @@
 streamlit
-matplotlib
 pandas
-scikit-learn
 numpy
+matplotlib
 seaborn
+scikit-learn
+python-docx
